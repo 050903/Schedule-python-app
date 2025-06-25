@@ -1,0 +1,20 @@
+PyQt6==6.9.1
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.26.2
+matplotlib==3.8.2
+noisereduce
+
+# Use simpler alternatives that don't require complex builds
+scipy
+scikit-learn
+
+# Optional AI packages - install separately with:
+# pip install --no-build-isolation --no-deps package_name
+# pip install package_name --index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
+# deepfilternet
+# onnxruntime
+# rnnoise-python
+# openai-whisper
+# pydub

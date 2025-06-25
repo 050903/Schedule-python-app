@@ -1,0 +1,455 @@
+{
+    "user_profile": {
+        "login": "050903",
+        "id": 147327094,
+        "node_id": "U_kgDOCMgIdg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/147327094?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/050903",
+        "html_url": "https://github.com/050903",
+        "followers_url": "https://api.github.com/users/050903/followers",
+        "following_url": "https://api.github.com/users/050903/following{/other_user}",
+        "gists_url": "https://api.github.com/users/050903/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/050903/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/050903/subscriptions",
+        "organizations_url": "https://api.github.com/users/050903/orgs",
+        "repos_url": "https://api.github.com/users/050903/repos",
+        "events_url": "https://api.github.com/users/050903/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/050903/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "name": "Trần Thế Hảo",
+        "company": null,
+        "blog": "https://github.com/050903",
+        "location": "Ho Chi Minh city",
+        "email": null,
+        "hireable": true,
+        "bio": "# 👋 Hi, I’m Trần Thế Hảo (@050903)  \r\n- 👀 I’m passionate in development",
+        "twitter_username": null,
+        "public_repos": 29,
+        "public_gists": 0,
+        "followers": 0,
+        "following": 1,
+        "created_at": "2023-10-08T14:28:51Z",
+        "updated_at": "2025-05-26T04:03:31Z"
+    },
+    "public_repositories": [
+        {
+            "name": "050903",
+            "html_url": "https://github.com/050903/050903",
+            "description": null,
+            "created_at": "2025-05-08T18:50:40Z",
+            "updated_at": "2025-06-04T03:08:13Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": null,
+            "languages_detail": {}
+        },
+        {
+            "name": "AIFaceDetectionProject",
+            "html_url": "https://github.com/050903/AIFaceDetectionProject",
+            "description": null,
+            "created_at": "2025-05-08T15:05:57Z",
+            "updated_at": "2025-06-04T03:12:58Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "Python",
+            "languages_detail": {
+                "Python": 18493
+            }
+        },
+        {
+            "name": "All-In-Projects-Execution-",
+            "html_url": "https://github.com/050903/All-In-Projects-Execution-",
+            "description": "All-IN-ONE (AIO) to apply directly to practice",
+            "created_at": "2025-06-03T16:54:12Z",
+            "updated_at": "2025-06-03T17:17:57Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "HTML",
+            "languages_detail": {
+                "HTML": 14037416,
+                "Python": 177845
+            }
+        },
+        {
+            "name": "Animated-Portfolio-main",
+            "html_url": "https://github.com/050903/Animated-Portfolio-main",
+            "description": null,
+            "created_at": "2025-05-10T15:41:19Z",
+            "updated_at": "2025-05-29T09:53:44Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "JavaScript",
+            "languages_detail": {
+                "JavaScript": 108263,
+                "CSS": 11960,
+                "HTML": 9148
+            }
+        },
+        {
+            "name": "CSS-Web-Devolopments",
+            "html_url": "https://github.com/050903/CSS-Web-Devolopments",
+            "description": "Practice HTML CSS devoplopments",
+            "created_at": "2025-06-03T13:10:07Z",
+            "updated_at": "2025-06-03T13:36:11Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "HTML",
+            "languages_detail": {
+                "HTML": 267043,
+                "CSS": 62727,
+                "PHP": 14603,
+                "JavaScript": 13716
+            }
+        },
+        {
+            "name": "CuaHangTrangSuc",
+            "html_url": "https://github.com/050903/CuaHangTrangSuc",
+            "description": null,
+            "created_at": "2025-02-09T02:18:39Z",
+            "updated_at": "2025-05-29T09:54:11Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "HTML",
+            "languages_detail": {
+                "HTML": 2328370,
+                "SCSS": 725424,
+                "JavaScript": 348888,
+                "CSS": 163324,
+                "Python": 81028,
+                "Dockerfile": 312
+            }
+        },
+        {
+            "name": "Data-analytics-system-to-understand-yourself-deeply",
+            "html_url": "https://github.com/050903/Data-analytics-system-to-understand-yourself-deeply",
+            "description": null,
+            "created_at": "2025-05-28T15:22:56Z",
+            "updated_at": "2025-05-29T09:46:11Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "HTML",
+            "languages_detail": {
+                "HTML": 14022515,
+                "Python": 106717
+            }
+        },
+        {
+            "name": "Galaxy-Animation-With-p5.js-And-Manus-A.I",
+            "html_url": "https://github.com/050903/Galaxy-Animation-With-p5.js-And-Manus-A.I",
+            "description": "A galaxy theme sounds fantastic. I'll get started on creating a visually captivating p5.js animation featuring swirling stars and cosmic colors. ",
+            "created_at": "2025-06-04T18:39:08Z",
+            "updated_at": "2025-06-05T02:51:37Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "JavaScript",
+            "languages_detail": {
+                "JavaScript": 9822,
+                "HTML": 777
+            }
+        },
+        {
+            "name": "Hill-Cipher-Implementation-in-Python",
+            "html_url": "https://github.com/050903/Hill-Cipher-Implementation-in-Python",
+            "description": null,
+            "created_at": "2025-05-23T17:24:51Z",
+            "updated_at": "2025-05-23T17:29:57Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "Python",
+            "languages_detail": {
+                "Python": 4350
+            }
+        },
+        {
+            "name": "HomeOwnerHelper-ReplitA.IAgent",
+            "html_url": "https://github.com/050903/HomeOwnerHelper-ReplitA.IAgent",
+            "description": null,
+            "created_at": "2025-05-19T08:30:00Z",
+            "updated_at": "2025-05-29T09:52:37Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "TypeScript",
+            "languages_detail": {
+                "TypeScript": 273416,
+                "CSS": 2747,
+                "HTML": 1431,
+                "JavaScript": 80
+            }
+        },
+        {
+            "name": "Information-Security",
+            "html_url": "https://github.com/050903/Information-Security",
+            "description": null,
+            "created_at": "2025-05-20T05:25:32Z",
+            "updated_at": "2025-06-03T08:00:28Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "Python",
+            "languages_detail": {
+                "Python": 160864,
+                "HTML": 125587,
+                "CSS": 4217,
+                "JavaScript": 732
+            }
+        },
+        {
+            "name": "Interactive-Classical-Ciphers-Analyzer",
+            "html_url": "https://github.com/050903/Interactive-Classical-Ciphers-Analyzer",
+            "description": null,
+            "created_at": "2025-05-23T17:53:48Z",
+            "updated_at": "2025-05-23T17:54:20Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "HTML",
+            "languages_detail": {
+                "HTML": 48601
+            }
+        },
+        {
+            "name": "Kotlin-From-Scrath-Project",
+            "html_url": "https://github.com/050903/Kotlin-From-Scrath-Project",
+            "description": null,
+            "created_at": "2025-05-27T18:51:55Z",
+            "updated_at": "2025-05-27T19:06:40Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "Java",
+            "languages_detail": {
+                "Java": 27105
+            }
+        },
+        {
+            "name": "Kotlin-Todoapp",
+            "html_url": "https://github.com/050903/Kotlin-Todoapp",
+            "description": null,
+            "created_at": "2025-05-28T18:53:27Z",
+            "updated_at": "2025-05-28T19:01:50Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "Kotlin",
+            "languages_detail": {
+                "Kotlin": 42346
+            }
+        },
+        {
+            "name": "Mobile-device-progamming-personal-excercises",
+            "html_url": "https://github.com/050903/Mobile-device-progamming-personal-excercises",
+            "description": null,
+            "created_at": "2025-05-09T03:36:15Z",
+            "updated_at": "2025-05-16T04:44:05Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": null,
+            "languages_detail": {}
+        },
+        {
+            "name": "Mobile-device-progamming-personal-excercises-part2",
+            "html_url": "https://github.com/050903/Mobile-device-progamming-personal-excercises-part2",
+            "description": null,
+            "created_at": "2025-05-15T16:49:27Z",
+            "updated_at": "2025-05-16T10:16:43Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "Kotlin",
+            "languages_detail": {
+                "Kotlin": 16245
+            }
+        },
+        {
+            "name": "Mobile-device-progamming-personal-excercises-part3",
+            "html_url": "https://github.com/050903/Mobile-device-progamming-personal-excercises-part3",
+            "description": null,
+            "created_at": "2025-05-22T02:41:25Z",
+            "updated_at": "2025-05-27T05:05:23Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "Kotlin",
+            "languages_detail": {
+                "Kotlin": 5685
+            }
+        },
+        {
+            "name": "Network-Design-For-UTH-Campus-Building",
+            "html_url": "https://github.com/050903/Network-Design-For-UTH-Campus-Building",
+            "description": null,
+            "created_at": "2025-05-18T03:23:45Z",
+            "updated_at": "2025-05-18T04:10:40Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": null,
+            "languages_detail": {}
+        },
+        {
+            "name": "Programming-languages-will-dominate-the-market",
+            "html_url": "https://github.com/050903/Programming-languages-will-dominate-the-market",
+            "description": "🚀💻 😊This research project explores programming languages expected to dominate the market.",
+            "created_at": "2025-06-04T08:30:00Z",
+            "updated_at": "2025-06-04T09:22:29Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "HTML",
+            "languages_detail": {
+                "HTML": 242306
+            }
+        },
+        {
+            "name": "Project-Report-Ultimate-Caro-m-n-k-Game-AI",
+            "html_url": "https://github.com/050903/Project-Report-Ultimate-Caro-m-n-k-Game-AI",
+            "description": null,
+            "created_at": "2025-05-23T16:59:16Z",
+            "updated_at": "2025-05-23T17:10:31Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "Python",
+            "languages_detail": {
+                "Python": 21004
+            }
+        },
+        {
+            "name": "Project-self-understanding-and-render-3-description-tables",
+            "html_url": "https://github.com/050903/Project-self-understanding-and-render-3-description-tables",
+            "description": null,
+            "created_at": "2025-05-28T14:34:04Z",
+            "updated_at": "2025-05-28T15:43:31Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "Python",
+            "languages_detail": {
+                "Python": 31758
+            }
+        },
+        {
+            "name": "ProjectJewelrySaleStore",
+            "html_url": "https://github.com/050903/ProjectJewelrySaleStore",
+            "description": null,
+            "created_at": "2025-01-07T00:02:13Z",
+            "updated_at": "2025-05-08T18:45:52Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "HTML",
+            "languages_detail": {
+                "HTML": 51602,
+                "Python": 30084,
+                "CSS": 9102,
+                "JavaScript": 4542
+            }
+        },
+        {
+            "name": "QUANG221222",
+            "html_url": "https://github.com/050903/QUANG221222",
+            "description": null,
+            "created_at": "2025-06-03T04:04:53Z",
+            "updated_at": "2025-06-03T04:04:53Z",
+            "fork": true,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": null,
+            "languages_detail": {}
+        },
+        {
+            "name": "Re-2025-SAGI-Astrophysics-Workshop---Final-Announcement-for-Online-Participants",
+            "html_url": "https://github.com/050903/Re-2025-SAGI-Astrophysics-Workshop---Final-Announcement-for-Online-Participants",
+            "description": null,
+            "created_at": "2025-05-27T11:34:54Z",
+            "updated_at": "2025-05-27T11:44:24Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": null,
+            "languages_detail": {}
+        },
+        {
+            "name": "SecureGamer-A-Privacy-and-Data-Protection-App-for-Video-Game-Players",
+            "html_url": "https://github.com/050903/SecureGamer-A-Privacy-and-Data-Protection-App-for-Video-Game-Players",
+            "description": "Full-featured security-focused web application (or cross-platform app) named SecureGamer, designed to protect the personal data, behavioral patterns, and digital privacy of video game players. This app should integrate cybersecurity best practices, data encryption, and transparent user controls to ensure a safe and trusted environment for gamers.",
+            "created_at": "2025-05-29T12:45:22Z",
+            "updated_at": "2025-06-03T13:56:10Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "HTML",
+            "languages_detail": {
+                "HTML": 41735
+            }
+        },
+        {
+            "name": "Web-devolopement-exercise",
+            "html_url": "https://github.com/050903/Web-devolopement-exercise",
+            "description": null,
+            "created_at": "2025-05-27T11:07:33Z",
+            "updated_at": "2025-05-27T11:11:23Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": null,
+            "languages_detail": {}
+        },
+        {
+            "name": "Web-devoloper",
+            "html_url": "https://github.com/050903/Web-devoloper",
+            "description": null,
+            "created_at": "2025-05-14T18:21:45Z",
+            "updated_at": "2025-05-19T06:57:42Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "HTML",
+            "languages_detail": {
+                "HTML": 138062,
+                "CSS": 19164,
+                "JavaScript": 8374
+            }
+        },
+        {
+            "name": "Web-devolopment-ex2",
+            "html_url": "https://github.com/050903/Web-devolopment-ex2",
+            "description": null,
+            "created_at": "2025-05-27T11:13:50Z",
+            "updated_at": "2025-05-27T11:22:46Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": "HTML",
+            "languages_detail": {
+                "HTML": 79819
+            }
+        },
+        {
+            "name": "Web-devolopments2",
+            "html_url": "https://github.com/050903/Web-devolopments2",
+            "description": "Web devolopments2",
+            "created_at": "2025-06-02T06:41:35Z",
+            "updated_at": "2025-06-02T06:41:39Z",
+            "fork": false,
+            "stargazers_count": 0,
+            "forks_count": 0,
+            "main_language": null,
+            "languages_detail": {}
+        }
+    ]
+}

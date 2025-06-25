@@ -1,0 +1,189 @@
+/* General Body and Container */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f7f6;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align to the top */
+    min-height: 100vh;
+}
+
+.cv-container {
+    display: flex;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    width: 21cm; /* A4 width */
+    min-height: 29.7cm; /* A4 height */
+}
+
+/* Left Column Styling */
+.left-column {
+    background-color: #2c3e50; /* Dark blue/grey */
+    color: #ecf0f1; /* Light text */
+    padding: 30px;
+    width: 35%; /* Adjust as needed */
+    flex-shrink: 0; /* Prevent shrinking */
+}
+
+.profile-section {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #3498db; /* Blue border */
+    margin-bottom: 15px;
+}
+
+.profile-section h2 {
+    margin: 10px 0 5px;
+    font-size: 1.8em;
+    color: #fff;
+}
+
+.profile-section .title {
+    font-size: 1.1em;
+    color: #bdc3c7; /* Lighter grey */
+}
+
+.left-column h3 {
+    border-bottom: 2px solid #3498db; /* Blue underline */
+    padding-bottom: 8px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-size: 1.2em;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.left-column h3 .icon {
+    margin-right: 10px;
+    color: #3498db; /* Blue icon */
+}
+
+.left-column p, .left-column ul {
+    margin-bottom: 10px;
+    font-size: 0.95em;
+}
+
+.left-column a {
+    color: #ecf0f1;
+    text-decoration: none;
+}
+
+.left-column a:hover {
+    text-decoration: underline;
+    color: #3498db;
+}
+
+.left-column ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 0;
+}
+
+.left-column ul li {
+    margin-bottom: 5px;
+    padding-left: 10px;
+    position: relative;
+}
+
+/* Right Column Styling */
+.right-column {
+    padding: 30px;
+    width: 65%; /* Adjust as needed */
+}
+
+.right-column h3 {
+    color: #2c3e50; /* Dark blue/grey */
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 8px;
+    margin-top: 0; /* Override default margin */
+    margin-bottom: 20px;
+    font-size: 1.4em;
+    display: flex;
+    align-items: center;
+}
+
+.right-column h3 .icon {
+    margin-right: 10px;
+    color: #3498db;
+}
+
+.summary-section p {
+    margin-bottom: 20px;
+    font-size: 1em;
+}
+
+.experience-section .project-item,
+.education-section .education-item,
+.awards-section .award-item {
+    margin-bottom: 20px;
+    padding-left: 15px;
+    border-left: 3px solid #3498db;
+}
+
+.experience-section h4,
+.education-section h4,
+.awards-section h4 {
+    margin: 0 0 5px;
+    color: #2c3e50;
+    font-size: 1.1em;
+}
+
+.experience-section h4 a {
+    color: #2c3e50;
+    text-decoration: none;
+}
+
+.experience-section h4 a:hover {
+    color: #3498db;
+    text-decoration: underline;
+}
+
+.experience-section p {
+    margin: 0;
+    font-size: 0.95em;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .cv-container {
+        flex-direction: column;
+        width: 100%;
+        min-height: auto;
+    }
+
+    .left-column, .right-column {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .profile-pic {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+/* Placeholder for image if not found */
+.profile-pic[src="placeholder.png"] {
+    background-color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    font-size: 0.8em;
+    text-align: center;
+    border: none;
+}

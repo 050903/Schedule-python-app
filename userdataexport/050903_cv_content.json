@@ -1,0 +1,66 @@
+{
+    "personal_info": {
+        "name": "Trần Thế Hảo",
+        "email": null,
+        "phone": "0358806087",
+        "linkedin": "https://www.linkedin.com/in/h%E1%BA%A3o-tr%E1%BA%A7n-th%E1%BA%BF-507026290/",
+        "github": "https://github.com/050903"
+    },
+    "objective_summary": "A highly motivated Python developer with 29 public GitHub repositories showcasing expertise in diverse projects utilizing Python, JavaScript, and Java.  Seeking a challenging role to leverage strong programming skills and proven experience in building robust and scalable applications.  Eager to contribute to a dynamic team and continue professional growth.",
+    "skills": {
+        "languages": [
+            "Java",
+            "JavaScript",
+            "Kotlin",
+            "PHP",
+            "Python",
+            "TypeScript"
+        ],
+        "frameworks_tools": [
+            "CSS",
+            "Dockerfile",
+            "HTML",
+            "SCSS"
+        ],
+        "databases": [],
+        "concepts": [
+            "Machine Learning",
+            "Web Development"
+        ]
+    },
+    "project_experience": [
+        {
+            "name": "050903",
+            "url": "https://github.com/050903/050903",
+            "summary": "Vì không có thông tin chi tiết về dự án GitHub \"050903\", tôi không thể tạo một mô tả chính xác và hiệu quả.  Để tạo một đoạn mô tả phù hợp cho CV của bạn, cần thêm thông tin về dự án, bao gồm ngôn ngữ lập trình được sử dụng, chức năng chính của dự án, và kết quả đạt được.  Nếu dự án sử dụng Python, hãy cung cấp chi tiết đó để tôi có thể viết một đoạn mô tả tập trung vào mục tiêu nghề nghiệp của bạn là trở thành một nhà phát triển Python chuyên nghiệp."
+        },
+        {
+            "name": "AIFaceDetectionProject",
+            "url": "https://github.com/050903/AIFaceDetectionProject",
+            "summary": "Phát triển ứng dụng phát hiện khuôn mặt sử dụng Python,  thực hiện phân tích hình ảnh và xây dựng một hệ thống nhận dạng khuôn mặt.  Ứng dụng này đã được tối ưu hoá để đạt hiệu quả cao trong việc xử lý hình ảnh.  Dự án này chứng minh khả năng lập trình Python và xử lý ảnh của tôi."
+        },
+        {
+            "name": "All-In-Projects-Execution-",
+            "url": "https://github.com/050903/All-In-Projects-Execution-",
+            "summary": "Phát triển ứng dụng web bằng HTML, tích hợp Python cho các xử lý phía máy chủ. Dự án này tập trung vào việc ứng dụng thực tiễn kiến thức lập trình, cung cấp nền tảng để xây dựng các tính năng tương tác (dựa trên kích thước file HTML lớn).  Việc sử dụng Python thể hiện khả năng tích hợp ngôn ngữ này vào ứng dụng web."
+        },
+        {
+            "name": "Animated-Portfolio-main",
+            "url": "https://github.com/050903/Animated-Portfolio-main",
+            "summary": "Dự án Animated-Portfolio-main là một portfolio cá nhân được xây dựng bằng JavaScript, CSS và HTML.  Dự án tập trung vào việc tạo ra một giao diện người dùng trực quan và hoạt hình.  Mặc dù được xây dựng bằng JavaScript, kinh nghiệm này chứng minh khả năng nắm bắt nhanh chóng các công nghệ mới và áp dụng chúng vào các dự án thực tế."
+        },
+        {
+            "name": "CSS-Web-Devolopments",
+            "url": "https://github.com/050903/CSS-Web-Devolopments",
+            "summary": "Dự án CSS-Web-Developments là một dự án thực hành phát triển web sử dụng HTML, CSS, JavaScript và PHP.  Dự án tập trung vào việc xây dựng giao diện người dùng tĩnh bằng HTML và CSS.  Mặc dù không trực tiếp liên quan đến Python, kinh nghiệm này đã giúp tôi củng cố kiến thức về front-end development, kỹ năng quan trọng cho bất kỳ nhà phát triển phần mềm nào."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Đại Học Giao Thông Vận Tải TP.HCM(UTH)",
+            "details": ""
+        }
+    ],
+    "awards_certifications": [],
+    "recommendations_for_growth": "Để đạt được mục tiêu trở thành \"Professional Python Developer\", bạn nên tập trung vào:\n\n1. **Dự án Python thực tế:** Tạo 2-3 dự án Python phức tạp, sử dụng các thư viện phổ biến như Django/Flask (web), Pandas/NumPy (data science), hoặc các thư viện machine learning (scikit-learn, TensorFlow/PyTorch).  Càng nhiều dự án, càng đa dạng về lĩnh vực, càng tốt.  Github là nơi lý tưởng để lưu trữ và thể hiện chúng.\n\n2. **Làm chủ kiến thức nền tảng:**  Tập trung vào những khái niệm cốt lõi của Python như OOP, design patterns, và cách xử lý lỗi hiệu quả.  Kiến thức vững chắc về thuật toán và cấu trúc dữ liệu cũng rất quan trọng.\n\n\n3. **(Tùy chọn)  Kết hợp Python với một lĩnh vực khác:**  Vì bạn có kinh nghiệm về web development (HTML, CSS, JavaScript),  hãy xem xét kết hợp Python (Flask/Django) với các kỹ năng này để tạo ra các ứng dụng web mạnh mẽ.  Điều này sẽ giúp bạn nổi bật hơn so với các ứng viên chỉ tập trung vào Python thuần túy."
+}

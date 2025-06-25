@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-brand">
+                <h1>My Website</h1>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#home">Trang chủ</a></li>
+                
+                <li><a href="#about">Giới thiệu</a></li>
+                <li><a href="#contact">Liên hệ</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">Chào mừng đến với My Website</h1>
+            <p class="hero-description">và liên hệ, hiệu ứng space, đảo điên, hãy làm nó thật phức tạp, biến ảo như 1 ảo thuật gia elonmusk và link với nhiều website con giống nó</p>
+            <div class="hero-buttons">
+                <a href="#contact" class="btn btn-primary">Liên hệ ngay</a>
+                <a href="#about" class="btn btn-secondary">Tìm hiểu thêm</a>
+            </div>
+        </div>
+        <div class="hero-animation">
+            <div class="floating-shapes">
+                <div class="shape shape-1"></div>
+                <div class="shape shape-2"></div>
+                <div class="shape shape-3"></div>
+            </div>
+        </div>
+    </section>
+
+    
+    <section id="about" class="about">
+        <div class="container">
+            <h2 class="section-title">Về chúng tôi</h2>
+            <div class="grid">
+                <div class="card fade-in">
+                    <h3>Sứ mệnh của chúng tôi</h3>
+                    <p>Chúng tôi cam kết cung cấp các giải pháp website chất lượng cao, dễ sử dụng và hiệu quả, giúp doanh nghiệp và cá nhân phát triển trực tuyến.</p>
+                </div>
+                <div class="card fade-in">
+                    <h3>Tầm nhìn</h3>
+                    <p>Trở thành nền tảng hàng đầu trong việc chuyển đổi ý tưởng thành website một cách nhanh chóng và thông minh, loại bỏ rào cản kỹ thuật.</p>
+                </div>
+                <div class="card fade-in">
+                    <h3>Giá trị cốt lõi</h3>
+                    <p>Sáng tạo, Tận tâm, Hiệu quả, Hỗ trợ khách hàng vượt trội. Chúng tôi luôn lắng nghe và cải thiện để đáp ứng mọi nhu cầu.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">Liên hệ với chúng tôi</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <div>
+                            <h4>Địa chỉ</h4>
+                            <p>123 Đường ABC, Quận 1, TP.HCM</p>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-phone"></i>
+                        <div>
+                            <h4>Điện thoại</h4>
+                            <p>0123 456 789</p>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-envelope"></i>
+                        <div>
+                            <h4>Email</h4>
+                            <p>info@mywebsite.com</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="contact-form fade-in">
+                    <h3 style="color: #2196f3; margin-bottom: 1.5rem;">Gửi tin nhắn cho chúng tôi</h3>
+                    <form>
+                        <div class="form-group">
+                            <label for="name">Tên của bạn</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email của bạn</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Tin nhắn của bạn</label>
+                            <textarea id="message" name="message" rows="5" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary" style="width: 100%;">Gửi tin nhắn</button>
+                    </form>
+                </div>
+        
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>My Website</h3>
+                    <p>Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ của chúng tôi.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Liên kết nhanh</h4>
+                    <ul>
+                        <li><a href="#home">Trang chủ</a></li>
+                        <li><a href="#about">Giới thiệu</a></li>
+                        <li><a href="#contact">Liên hệ</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Theo dõi chúng tôi</h4>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 My Website. Tất cả quyền được bảo lưu.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

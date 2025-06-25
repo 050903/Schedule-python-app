@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Awesome Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar container">
+            <a href="#" class="nav-brand">My Awesome Website</a>
+            <ul class="nav-menu">
+                <li><a href="#home">Trang chủ</a></li>
+                <li><a href="#about">Giới thiệu</a></li>
+<li><a href="#contact">Liên hệ</a></li>
+            </ul>
+            <div class="hamburger"><i class="fas fa-bars"></i></div>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="hero" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://via.placeholder.com/1920x1080/667eea/ffffff.png?text=Hero+Image');">
+            <div class="hero-content">
+                <h1 class="hero-title">My Awesome Website</h1>
+                <p class="hero-description">Chào mừng đến với website corporate của chúng tôi.</p>
+                <a href="#contact" class="btn btn-primary">Liên hệ ngay</a>
+            </div>
+        </section>
+
+        
+        <section id="about" class="container">
+            <h2 class="section-title">Về Chúng Tôi</h2>
+            <p style="text-align: center; max-width: 800px; margin: auto;">Chúng tôi là một đội ngũ đam mê, tận tâm mang đến những sản phẩm và dịch vụ chất lượng nhất cho khách hàng. Với nhiều năm kinh nghiệm, chúng tôi tự hào về sự chuyên nghiệp và sự hài lòng của khách hàng.</p>
+        </section>
+
+
+        <section id="contact" class="container">
+            <h2 class="section-title">Liên Hệ</h2>
+            <div class="contact-form">
+                <form>
+                    <div class="form-group">
+                        <input type="text" name="name" placeholder="Tên của bạn" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" name="email" placeholder="Email của bạn" required>
+                    </div>
+                    <div class="form-group">
+                        <textarea name="message" placeholder="Nội dung tin nhắn" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary" style="width: 100%;">Gửi Tin Nhắn</button>
+                </form>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>© 2025 My Awesome Website. All Rights Reserved.</p>
+            <div class="social-links">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

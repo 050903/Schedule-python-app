@@ -1,0 +1,47 @@
+# schedule.kv
+#:kivy 2.1.0
+
+<ScheduleLayout>:
+    orientation: 'vertical'
+    schedule_grid: schedule_grid_id
+
+    BoxLayout:
+        size_hint_y: None
+        height: '48dp'
+        Button:
+            text: 'Tạo mới'
+            on_press: app.new_schedule()
+        Button:
+            text: 'Mở...'
+            on_press: app.open_schedule()
+        Button:
+            text: 'Lưu'
+            on_press: app.save_schedule()
+        Button:
+            text: 'Lưu thành...'
+            on_press: app.save_schedule_as()
+
+    ScheduleGrid:
+        id: schedule_grid_id
+        cols: 8 # 1 cột cho thông tin + 7 cột cho các ngày
+        # Các widget sẽ được thêm từ code Python
+
+    BoxLayout:
+        size_hint_y: None
+        height: '48dp'
+        Button:
+            text: 'Sao chép Ảnh'
+            background_color: 0, 0.5, 1, 1
+            on_press: app.copy_image_to_clipboard()
+        Button:
+            text: 'Xóa toàn bộ'
+            background_color: 1, 0.2, 0.2, 1
+            on_press: app.clear_all_checks()
+
+<Label>:
+    canvas.before:
+        Color:
+            rgba: self.background_color if hasattr(self, 'background_color') else (0,0,0,0)
+        Rectangle:
+            pos: self.pos
+            size: self.size
