@@ -6,6 +6,6 @@ numpy
 statsmodels
 scikit-learn
 aiohttp
-python-multipart==0.0.6
+python-multipart==0.0.18
 pydantic-settings==2.1.0
 joblib
